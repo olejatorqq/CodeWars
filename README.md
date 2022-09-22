@@ -7,3 +7,7 @@ ___
 # 2. Exes and Ohs
 Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
 ___
+
+# 3. Friend or Foe?
+Make a program that filters a list of strings and returns a list with only your friends name in it.<br/>
+If a name has exactly 4 letters in it, you can be sure that it has to be a friend of yours! Otherwise, you can be sure he's not...
