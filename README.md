@@ -15,4 +15,7 @@ ___
 # 4. Square(n) Sum
 Complete the square sum function so that it squares each number passed into it and then sums the results together.
 ___
+# 5. Unique in Order
+Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
+___
 
