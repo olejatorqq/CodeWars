@@ -18,6 +18,7 @@ ___
 # 5. Unique in Order
 Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
 ___
-
+# 6. Is n divisible by x and y
+Create a function that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero numbers.
 ___
 
