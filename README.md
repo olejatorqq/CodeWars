@@ -21,4 +21,6 @@ ___
 # 6. Is n divisible by x and y
 Create a function that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero numbers.
 ___
-
+# 7. List Filtering
+In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
+___
