@@ -24,3 +24,6 @@ ___
 # 7. List Filtering
 In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
 ___
+# 8. You are a square
+Given an integral number, determine if it's a square number
+___
