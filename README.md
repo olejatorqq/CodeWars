@@ -1,3 +1,7 @@
+# • Array.diff
+Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
+It should remove all values from list a, which are present in list b keeping their order.
+___
 # • Square Every Digit
 Welcome. In this kata, you are asked to square every digit of a number and concatenate them. <br/>
 For example, if we run 9119 through the function, 811181 will come out, because 92 is 81 and 12 is 1. <br/>
